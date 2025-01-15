@@ -1,0 +1,85 @@
+ID	label	class	subclass	dcterms:title	dcterms:alternative	krsc:isnicode	krsc:birthdate	krsc:deathdate	schema:gender	krsc:nationality	schema:jobTitle	krsc:imageURL	foaf:made	krsc:organize	krsc:organizedBy	krsc:plan	foaf:knows	krsc:mixing	krsc:mastering	krsc:participate	foaf:member	krsc:isMemberof	krsc:isProductionAgencyOf	krsc:isPublishingCompanyOf	krsc:isPerformancedAt	krsc:isInvolvedIn	krsc:isPredecessorOf	krsc:hasAssessment	krsc:mentionedIn	dcterms:isReferencedBy	dcterms:references
+Agent_001	사이드비(Side-B)	foaf:Agent	foaf:Group	사이드비(Side-B)	사이드비 / Side B	0000 0004 6338 665X	1999-00-00			대한민국			Word Up / B Boy Style(New Recording Ver.)							MP HIPHOP 2000 초	G.A.S.S / T'ache / Niddle				클럽 마스터플랜					https://namu.wiki/w/사이드%20비	
+Agent_002	G.A.S.S	foaf:Agent	foaf:Person	배준	G.A.S.S / 가스				male													사이드비(Side-B)			클럽 마스터플랜						
+Agent_003	T'ache	foaf:Agent	foaf:Person	임희택	T'ache / Tache / 테이크	0000 0005 0357 7160	1979-00-00		male	대한민국			주사위 / 초...				G.A.S.S / Niddle			MP HIPHOP 2000 초		사이드비(Side-B)			클럽 마스터플랜					https://lod.nl.go.kr/page/KAC201907392	
+Agent_004	Niddle	foaf:Agent	foaf:Person	이창의	Niddle / DJ Tactics	0000 0004 7666 1091			male								Charmeleon(박홍신)			MP HIPHOP 2000 초		사이드비(Side-B) / 마스터플랜			클럽 마스터플랜						
+Agent_005	DJ 소울스케이프	foaf:Agent	foaf:Person	박민준	DJ SOULSCAPE / 에스피오네 / Espionne	0000 0004 5931 6456	1979-07-21		male	대한민국	프로듀서 / DJ		주사위				Tequila Addicted														
+Agent_006	Penny	foaf:Agent	foaf:Person	도성일	Penny / Pe2ny		1980-03-08		male																						
+Agent_007	SOUL CHAMBER	foaf:Agent	foaf:Group	SOUL CHAMBER																	DJ 소울스케이프 / Penny										
+Agent_008	다크루	foaf:Agent	foaf:Group	Da_Crew	다크루																										
+Agent_009	Saatan	foaf:Agent	foaf:Person	서재민	Saatan / Artisan Beats				male																						
+Agent_010	Seven	foaf:Agent	foaf:Person	최재원	Seven / 세븐				male																						
+Agent_011	주석	foaf:Agent	foaf:Person	박주석	주석 / JOOSUC	0000 0003 7288 3001	1978-10-30		male	대한민국	래퍼 / 프로듀서		배수의 진 / 진(眞)vs위(僞) / 주사위 / 초...				MC 메타 / 나찰			MP HIPHOP 2000 초 / Get Down M/V		SOUTHSIDE ALLSTARZ / 마스터플랜			클럽 마스터플랜					https://ko.wikipedia.org/wiki/주석_(가수)	
+Agent_012	원썬	foaf:Agent	foaf:Person	김선일	원썬 / OneSun		1978-11-17		male																						
+Agent_013	인피닛플로우	foaf:Agent	foaf:Group	Infinite_Flow	I.F																										
+Agent_014	비즈니즈	foaf:Agent	foaf:Person	하원택	Bizniz		1982-03-16		male																						
+Agent_015	넋업샨	foaf:Agent	foaf:Person	배한준	넋업샨		1979-09-20		male																						
+Agent_016	가리온	foaf:Agent	foaf:Group	가리온	Garion		1998-00-00													KBS_현장르포_제3지대_19981221											
+Agent_017	MC 메타	foaf:Agent	foaf:Person	이재현	MC_Meta		1971-12-16		male																						
+Agent_018	나찰	foaf:Agent	foaf:Person	정현일	Naachal		1977-06-27		male																						
+Agent_019	DJ JU	foaf:Agent	foaf:Person	최재유	J-U / 崔載裕 / 최선생 / 최'JU'선생 / 崔 "先生" 載裕		1977-00-00		male																						
+Agent_020	마스터플랜	foaf:Agent	foaf:Group	마스터플랜	Master Plan				null	null	null		MP HIPHOP 2000 초									사이드비(Side-B) / 가리온 / 주석 / DJ 소울스케이프 / 다크루 / DJ 렉스 / A.Jay / GANGTHOLIC / ILL SKILLZ	MP HIPHOP 2000 초	MP HIPHOP 2000 초	클럽 마스터플랜					https://ko.wikipedia.org/wiki/마스터플랜	
+Agent_021	블렉스	foaf:Agent	foaf:Group	B.L.E.X	블렉스																주석 / 메타										
+Agent_022	해피로봇레코드	foaf:Agent	foaf:Group	해피로봇레코드																											
+Agent_023	studio360	foaf:Agent	foaf:Group	studio360																											
+Agent_024	NHN벅스	foaf:Agent	foaf:Group	NHN벅스																											
+Agent_025	루미넌트엔터테인먼트	foaf:Agent	foaf:Group	루미넌트엔터테인먼트																											
+Agent_026	검은소리엔터테인먼트	foaf:Agent	foaf:Group	검은소리엔터테인먼트																											
+Agent_027	알레스뮤직	foaf:Agent	foaf:Group	알레스뮤직																											
+Agent_028	373 Project	foaf:Agent	foaf:Group	373_Project																											
+Agent_029	ILL SKILLZ	foaf:Agent	foaf:Group	ILL SKILLZ			1999-00-00	2004-00-00													Leo Kekoa / Vinnie / MAKE-1										
+Agent_030	Vinnie	foaf:Agent	foaf:Person	강상욱	Vinnie				male																						
+Agent_031	Leo Kekoa	foaf:Agent	foaf:Person	김한 / 대니얼 리오 킴	Leo_Kekoa / L.E.O. / Leo K'koa	0000 0004 5933 4910	1980-02-22		male		래퍼		초...				Vinnie / MAKE-1			MP HIPHOP 2000 초		ILL SKILLZ / 마스터플랜 / SOUTHSIDE ALLSTARZ			클럽 마스터플랜						
+Agent_032	MAKE-1	foaf:Agent	foaf:Person	이진복	MAKE-1 / Make1				male																						
+Agent_033	MC 성천	foaf:Agent	foaf:Person	김성천	MC_성천 / Fascinating																										
+Agent_034	Charmeleon	foaf:Agent	foaf:Person	박홍신	Charmeleon																										
+Agent_035	DJ 렉스	foaf:Agent	foaf:Person	최재화	DJ Wreckx / DJ 렉스		1974-10-18		male	대한민국	DJ		태어나서 처음... / 주사위 / 초...				MC 메타 / 주석 / 이현도			MP HIPHOP 2000 초		마스터플랜 / 최가박당			클럽 마스터플랜					https://ko.wikipedia.org/wiki/DJ_렉스#Meta_&_Wreckx	
+Agent_036	SOUTHSIDE ALLSTARZ	foaf:Agent	foaf:Group	SOUTHSIDE ALLSTARZ		0000 0004 9163 4972	2000-00-00			대한민국			Get Down							MP HIPHOP 2000 초	주석 / Leo Kekoa / 사이드비(Side-B) / MC 성천 / Penny / A.Jay / DJ Tommy				클럽 마스터플랜					https://lod.nl.go.kr/page/KAB202009664	
+Agent_037	A.Jay	foaf:Agent	foaf:Person	김지홍	A.Jay																										
+Agent_038	DJ Tommy	foaf:Agent	foaf:Person	DJ Tommy			1971-12-27																								
+Agent_039	Issac Squab	foaf:Agent	foaf:Person	박이삭	Issac / Rap Boy		1983-04-28																								
+Agent_040	GANGTHOLIC	foaf:Agent	foaf:Group																												
+Agent_041	DoBoi	foaf:Agent	foaf:Person																												
+Agent_042	Tyung	foaf:Agent	foaf:Person																												
+Agent_043	TaQ	foaf:Agent	foaf:Person																												
+Agent_044	MizKim	foaf:Agent	foaf:Person																												
+Agent_045	Yanstar	foaf:Agent	foaf:Person																												
+Agent_046	Def Roy	foaf:Agent	foaf:Person	이준우	DaePhal / 대팔 / 大捌		1979-12-31																								
+Agent_047	MC feel	foaf:Agent	foaf:Person																												
+Agent_048	J	foaf:Agent	foaf:Person																												
+Agent_049	Tequila Addicted	foaf:Agent	foaf:Person	김원종	김디지 / Deegie / Insane Deegie / DG.esq		1981-09-25																								
+Agent_050	More	foaf:Agent	foaf:Person																												
+Agent_051	6POINT	foaf:Agent	foaf:Person																												
+Agent_052	J-track	foaf:Agent	foaf:Person																												
+Agent_053	나용희	foaf:Agent	foaf:Person																	MP HIPHOP 2000 초											
+Agent_054	최영희	foaf:Agent	foaf:Person																	MP HIPHOP 2000 초											
+Agent_055	김국현	foaf:Agent	foaf:Person																	MP HIPHOP 2000 초											
+Agent_056	정두석	foaf:Agent	foaf:Person																	MP HIPHOP 2000 초											
+Agent_057	윤상철	foaf:Agent	foaf:Person																	MP HIPHOP 2000 초											
+Agent_058	강재구	foaf:Agent	foaf:Person																	MP HIPHOP 2000 초											
+Agent_059	오승철	foaf:Agent	foaf:Person																	MP HIPHOP 2000 초											
+Agent_060	황기연	foaf:Agent	foaf:Person																	MP HIPHOP 2000 초											
+Agent_061	구지애	foaf:Agent	foaf:Person																	MP HIPHOP 2000 초											
+Agent_062	조원선	foaf:Agent	foaf:Person																	MP HIPHOP 2000 초											
+Agent_063	염주현	foaf:Agent	foaf:Person	염주현	joo hyen															MP HIPHOP 2000 초											
+Agent_064	김정욱	foaf:Agent	foaf:Person	김정욱	woogie															MP HIPHOP 2000 초											
+Agent_065	선종욱	foaf:Agent	foaf:Person	선종욱	radiostar															MP HIPHOP 2000 초											
+Agent_066	최인호	foaf:Agent	foaf:Person	최인호	enoh															MP HIPHOP 2000 초											
+Agent_067	조창희	foaf:Agent	foaf:Person	조창희희	lee															MP HIPHOP 2000 초											
+Agent_068	이종현	foaf:Agent	foaf:Person	이종현	돈마니 / 솜브레로				male	대한민국																					
+Agent_069	윤종훈	foaf:Agent	foaf:Person	윤종훈	null	null			male	대한민국																					
+Agent_070	박하재홍	foaf:Agent	foaf:Person	박하재홍	MC_Seimo	null			male	대한민국																					
+Agent_071	이현숙	foaf:Agent	foaf:Person	이현숙	Hyun-Sook Lee															MP HIPHOP 2000 초											
+Agent_072	KBS	foaf:Agent	foaf:Group	KBS	한국방송																										
+Agent_073	이현도	foaf:Agent	foaf:Person																												
+Agent_074	최가박당	foaf:Agent	foaf:Group	최가박당																	DJ 소울스케이프 / DJ JU / DJ 렉스										
+Agent_075	권우찬	foaf:Agent	foaf:Person	권우찬	.1 / 닷원		1987-11-06		male	대한민국	의사																				
+Agent_076	브라운비트	foaf:Agent	foaf:Group																												
+Agent_077	조대흠	foaf:Agent	foaf:Person	조대흠	gyra								브라운비트																		
+Agent_078	니노리바	foaf:Agent	foaf:Person	이세환	니노리바 / ninoliba																										
+Agent_079	스컬	foaf:Agent	foaf:Person	조성진	스컬 / SKULL																										
+	대학교힙합동아리연합	foaf:Agent	foaf:Group	대학교힙합동아리연합	대힙연																										
+	Da C Side	foaf:Agent	foaf:Group	Da C Side	다씨사이드																										
+	소울컴퍼니	foaf:Agent	foaf:Group																												
+	DMS	foaf:Agent	foaf:Group																												
+	힙합방	foaf:Agent	foaf:Group	힙합방						대한민국					MC 메타																

@@ -1,0 +1,7 @@
+ID	label	class	subclass	dcterms:title	dcterms:alternative	krsc:assessmentDate	krsc:assessmentComment	krsc:startdate	krsc:enddate	krsc:timestamp	krsc:assessmentBy	dcterms:isReferencedBy	krsc:assessmentSubject	krsc:assessmentRelation	krsc:assessmentObject
+Assessment_001	Assessment_001	krsc:Assessment		Assessment_001		2024-11-16	박하재홍씨와의 인터뷰 자료를 참조해 윤종훈이 평가한 스컬과 중앙대학교의 관계 정보				윤종훈	Interview_001	스컬	활동하다	중앙대학교
+Assessment_002	Assessment_002	krsc:Assessment		Assessment_002		2024-11-16	권우찬씨와의 인터뷰 자료를 참조해 김철수가 평가한 스컬과 Da C Side의 관계 정보				김철수	Interview_002	스컬	소속되다	Da C Side
+Assessment_003	Assessment_003	krsc:Assessment		Assessment_003		2024-11-16	박하재홍씨와의 인터뷰 자료를 참조해 윤종훈이 평가한 대힙연과 마스터플랜의 관계 정보				윤종훈	Interview_001	대학교힙합동아리연합	대립관계이다	마스터플랜
+Assessment_004	Assessment_004	krsc:Assessment		Assessment_004		2024-11-16	박하재홍씨와의 인터뷰 자료를 참조해 윤종훈이 평가한 Da C Side와 대힙연의 관계 정보				윤종훈	Interview_001	Da C Side	소속되다	대학교힙합동아리연합
+Assessment_005	Assessment_005	krsc:Assessment		Assessment_005		2024-11-16	권우찬씨와의 인터뷰 자료를 참조해 김철수가 평가한 대힙연과 마스터플랜의 관계 정보				김철수	Interview_002	대학교힙합동아리연합	우호관계이다	마스터플랜
+Assessment_006	Assessment_006	krsc:Assessment		Assessment_006		2024-11-16	권우찬씨와의 인터뷰 자료를 참조해 김철수가 평가한 스컬과 클럽 마스터플랜의 관계 정보				김철수	Interview_002	스컬	활동하다	클럽 마스터플랜

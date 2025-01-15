@@ -1,0 +1,58 @@
+#Project
+평가의 다양성 모델 샘플
+
+#Class
+인물	blue	circle
+단체	red	circle
+장소	purple	triangle
+참조	green		triangle
+평가	black	circle
+개념	black	triangle
+
+#Relation
+krsc:hasAssessment	krsc:hasAssessment	arrow	2
+krsc:assessmentSubject	krsc:assessmentSubject	arrow	2	
+krsc:assessmentObject	krsc:assessmentObject	arrow	2
+krsc:assessmentRelation	krsc:assessmentRelation	arrow	2
+krsc:assessmentBy	krsc:assessmentBy	arrow	2
+dcterms:isReferencedBy	dcterms:isReferencedBy	arrow	2
+dcterms:references	dcterms:references	arrow	2
+krsc:interviewee	krsc:interviewee	arrow	2
+krsc:interviewer	krsc:interviewer	arrow	2
+
+#Nodes
+윤종훈	인물	윤종훈	null	icon/인물.png
+김철수	인물	김철수	null	icon/인물.png
+스컬	인물	스컬(조성진)	null	icon/인물.png
+Da_C_Side	단체	Da_C_Side	null	icon/단체.png
+중앙대학교	장소	중앙대학교 null	icon/장소.png
+박하재홍과의_인터뷰	참조	박하재홍과의_인터뷰	null	icon/참조.png
+권우찬과의_인터뷰	참조	권우찬과의_인터뷰	null	icon/참조.png
+평가1	평가	평가1
+평가2	평가	평가2
+소속되다	개념	소속되다	null	icon/개념.png
+박하재홍	인물	박하재홍	null	icon/인물.png
+권우찬	인물	권우찬	null	icon/인물.png
+활동하다	개념	활동하다	null	icon/개념.png
+
+#Links
+윤종훈	평가1	krsc:hasAssessment
+평가1	윤종훈	krsc:assessmentBy
+평가1	박하재홍과의_인터뷰	dcterms:isReferencedBy
+박하재홍과의_인터뷰	평가1	dcterms:references
+평가1	스컬	krsc:assessmentSubject
+평가1	활동하다	krsc:assessmentRelation
+평가1	중앙대학교	krsc:assessmentObject
+박하재홍과의_인터뷰	박하재홍	krsc:interviewee
+박하재홍과의_인터뷰	윤종훈	krsc:interviewer
+김철수	평가2	krsc:hasAssessment
+평가2	김철수	krsc:assessmentBy			
+평가2	권우찬과의_인터뷰	dcterms:isReferencedBy
+권우찬과의_인터뷰	평가2	dcterms:references
+평가2	스컬	krsc:assessmentSubject
+평가2	소속되다	krsc:assessmentRelation
+평가2	Da_C_Side	krsc:assessmentObject					
+권우찬과의_인터뷰	권우찬	krsc:interviewee
+권우찬과의_인터뷰	윤종훈	krsc:interviewer
+
+#End

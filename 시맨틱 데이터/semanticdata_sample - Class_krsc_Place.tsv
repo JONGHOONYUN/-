@@ -1,8 +1,0 @@
-ID	label	class	subclass	dcterms:title	dcterms:alternative	krsc:address	krsc:longitude	krsc:latitude	krsc:establishDate	krsc:demolitionDate	krsc:imageURL	foaf:maker	krsc:isPredecessorOf	krsc:isRecordingStudioOf	krsc:isMasteringStudioOf	krsc:mentionedIn	dcterms:isReferencedBy	dcterms:references
-Place_001	클럽 마스터플랜	krsc:Place		클럽 마스터플랜	club MP / club MasterPlan / 클럽 MP	서울특별시 마포구 동교동 185-10	126.9320578	37.5563896	1997-00-00	2001-12-00		이종현	신촌 긱라이브하우스		null		https://ko.wikipedia.org/wiki/마스터플랜	
-Place_002	긱 라이브하우스	krsc:Place		신촌긱라이브하우스	긱라이브하우스 / geek_livehouse	서울특별시 마포구 동교동 185-10	126.9320578	37.5563896	2003-00-00				null		null			
-Place_003	클럽_디피	krsc:Place		클럽_디피		제주특별자치도												
-Place_004	클럽_아폴로	krsc:Place		클럽_아폴로		대전광역시												
-Place_005	푸른굴 양식장	krsc:Place		푸른굴 양식장		서울특별시 마포구 동교동 185-10	126.9320578	37.5563896	1996-10-00	1997-00-00		박상순 / 안경화	클럽 마스터플랜				경향신문_19970620_「괴성지르는'괴짜 주인들' 록클럽'푸른굴 양식장'여사장 박상순·안경화씨」	
-Place_006	2 BLUE studio	krsc:Place		2 BLUE studio										태어나서 처음...				
-Place_007	Rock Studio	krsc:Place		Rock Studio	락스튜디오										태어나서 처음...			

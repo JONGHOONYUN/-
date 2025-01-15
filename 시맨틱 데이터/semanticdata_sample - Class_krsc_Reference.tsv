@@ -1,6 +1,0 @@
-ID	label	class	subclass	dcterms:title	dcterms:alternative	krsc:infoURL	krsc:isbncode	krsc:transcriptiontext	krsc:startdate	krsc:enddate	krsc:interviewplace	krsc:imageURL	foaf:maker	krsc:interviewee	krsc:interviewer	krsc:publishingCompany	krsc:speakAbout	dcterms:isReferencedBy	dcterms:references
-WebResource_001	위키백과_마스터플랜	krsc:Reference	krsc:WebResource	위키백과_마스터플랜		https://ko.wikipedia.org/wiki/마스터플랜	null	null	null	null	null			null	null		이종현 / 마스터플랜 / 클럽마스터플랜		
-Interview_001	인터뷰001_박하재홍	krsc:Reference	krsc:Interview	인터뷰001_박하재홍		http://13.209.254.53/wiki/index.php/Interview_001(박하재홍)	null		2024-05-27	2024-05-27	서울특별시 중구 광희동2가 238-1			박하재홍	윤종훈		클럽_디피 / 클럽_아폴로		Assessment_001
-Interview_002	인터뷰002_권우찬	krsc:Reference	krsc:Interview																
-			krsc:Bibliography	팬덤공															
-경향신문_19970620_「괴성지르는'괴짜 주인들' ▨록클럽'푸른굴 양식장'여사장 박상순·안경화씨」	경향신문_19970620_「괴성지르는'괴짜 주인들' 록클럽'푸른굴 양식장'여사장 박상순·안경화씨」	krsc:Reference	krsc:WebResource	경향신문_19970620_「괴성지르는'괴짜 주인들' 록클럽'푸른굴 양식장'여사장 박상순·안경화씨」		https://newslibrary.naver.com/viewer/index.naver?articleId=1997062000329128001&editNo=45&printCount=1&publishDate=1997-06-20&officeId=00032&pageNo=28&printNo=16136&publishType=00010											푸른굴 양식장		

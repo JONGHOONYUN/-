@@ -1,0 +1,83 @@
+== 정의 == 
+
+
+==속성==
+{| class="wikitable"
+|+ 캡션 텍스트
+|-
+! 속성(Attribute) !! 값(Value)
+|-
+| 제목 || [[dcterms:title::]]
+|-
+| 이칭 || [[dcterms:alternative::]]
+|-
+| 발매일 || [[krsc:releasedate::]]
+|-
+| 장르 || [[krsc:genre::]]
+|-
+| 러닝타임 || [[krsc:runningTime::]]
+|-
+| 재생URL || [[krsc:playURL::]]
+|-
+| 관련이미지URL || [[krsc:imageURL::]]
+|}
+
+==관계==
+{| class="wikitable"
+|+ 캡션 텍스트
+|-
+! '''관계(Relation)''' !! '''대상(Target)'''
+|-
+| 제작자 || [[foaf:maker::]]
+|-
+| 피쳐링 || [[krsc:isFeaturingBy::]]
+|-
+| 수록음반 || [[dcterms:isPartOf::]]
+|-
+| 마스터링 || [[krsc:isMasteredBy::]]
+|-
+| 믹스 || [[krsc:isMixedBy::]]
+|-
+| 어시스트 || [[krsc:isAssistedBy::]]
+|-
+| 어레인지 || [[krsc:isArrangedBy::]]
+|-
+| 프로듀서 || [[krsc:isProducedBy::]]
+|-
+| 작곡 || [[krsc:isComposedBy::]]
+|-
+| 작사 || [[krsc:isLyricsBy::]]
+|-
+| 스크래칭 || [[krsc:isScratchBy::]]
+|-
+| 턴테이블 || [[krsc:isTurntableLyricsBy::]]
+|- 
+| 베이스 || [[krsc:isBassBy::]]
+|- 
+| 기타 || [[krsc:isGuitarBy::]]
+|-
+| 건반 || [[krsc:isKeyboardsBy::]]
+|-
+| 샘플링 || [[krsc:isSamplePlayedBy::]]
+|-
+| 여성 코러스 || [[krsc:isFemaleChorusBy::]]
+|-
+| 남성 코러스 || [[krsc:isMaleChrousBy::]]
+|-
+| 녹음 스튜디오 || [[krsc:RecordingStudio::]]
+|-
+| 마스터링 스튜디오 || [[krsc:MasteringStudio::]]
+|-
+| 연주되다 || [[krsc:isPlayedin::]]
+|-
+| 비디오 || [[krsc:hasVideo::]]
+|-
+| 언급되다 || [[krsc:mentionedIn::]]
+|-
+| 참조되다 || [[dcterms:isReferencedBy::]]
+|- 
+| 참조 제공하다 || [[dcterms:references::]]
+|}
+
+
+[[Category:krsc:Work]] [[Category:krsc:MusicTrack]]

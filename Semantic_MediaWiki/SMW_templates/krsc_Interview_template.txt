@@ -1,0 +1,63 @@
+==정의==
+
+
+
+== 속성 ==
+{| class="wikitable"
+|+ 캡션 텍스트
+|-
+! 속성(Attribute) !! 값(Value)
+|-
+| 제목 || [[dcterms:title::)]]
+|-
+| 이칭 || [[dcterms:alternative::]]
+|-
+| 정보URL || [[krsc:infoURL::]]
+|-
+| 전사 내용 || [[krsc:transcriptiontext::]]
+|-
+| 시작일 || [[krsc:startdate::]]
+|-
+| 종료일 || [[krsc:enddate::]]
+|-
+| 인터뷰 장소 || [[krsc:interviewplace::]]
+|-
+| 관련 이미지 || [[krsc:imageURL::]]
+|}
+
+
+
+== 관계 ==
+{| class="wikitable"
+|+ 캡션 텍스트
+|-
+! '''관계(Relation)''' !! '''대상(Target)'''
+|-
+| 인터뷰 구술자 || [[krsc:interviewee::]]
+|-
+| 인터뷰 조사자 || [[krsc:interviewer::]]
+|-
+| 키워드 || [[krsc:speakAbout::]] / [[krsc:speakAbout::]] / [[krsc:speakAbout::]]
+|-
+| 참조 제공 || [[dcterms:references::]]
+|}
+
+
+
+==인터뷰 녹취록==
+
+
+
+== 평가(Assessment) ==
+
+본 페이지의 인터뷰를 참조하여 위키 사용자들은 인터뷰의 구술자와 다른 경험과 다르게 기억하고 있는 정보에 대해서, 또는 해당 자료에서 새롭게 발굴해낼 수 있는 노드와 관계 정보에 대해서 등록하고 공유할 수 있습니다.
+
+{| class="wikitable"
+|+ 캡션 텍스트
+|-
+! '''평가자''' !! '''항목A(source)''' !! '''항목B(target)''' !! '''관계(relation)''' !! '''속성(attribute)'''
+|-
+| [[A]] || [[B]] || [[C]] || 설립하였다 || 
+|-
+| [[A]] || [[B]] || [[C]] || 설립하였다 ||  
+|}

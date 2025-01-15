@@ -1,0 +1,50 @@
+==정의==
+
+
+==속성==
+{| class="wikitable"
+|+ 캡션 텍스트
+|-
+! 속성(Attribute) !! 값(Value)
+|-
+| 제목 || [[dcterms:title::]]
+|-
+| 이칭 || [[dcterms:alternative::]]
+|-
+| 정보URL || [[krsc:infoURL::]]
+|-
+| 관련이미지URL || [[krsc:imageURL::]]
+|}
+
+
+==관계==
+{| class="wikitable"
+|+ 캡션 텍스트
+|-
+! '''관계(Relation)''' !! '''대상(Target)'''
+|-
+| 인터뷰 대상자 || [[krsc:interviewee::]]
+|-
+| 인터뷰 조사자 || [[krsc:interviewer::]]
+|-
+| 키워드 || [[krsc:speakAbout::]]
+|-
+| 레퍼런스 || [[dcterms:isReferencedBy::]]
+|- 
+| 참조 제공 || [[dcterms:references::]]
+|}
+
+== 평가(Assessment) ==
+
+본 참조자료 노드를 참조하여 위키 사용자들은 인터뷰의 구술자와 다른 경험과 다르게 기억하고 있는 정보에 대해서, 또는 해당 자료에서 새롭게 발굴해낼 수 있는 노드와 관계 정보에 대해서 등록하고 공유할 수 있습니다.
+
+{| class="wikitable"
+|+ 캡션 텍스트
+|-
+! '''항목A(source)''' !! '''항목B(target)''' !! '''관계(relation)''' !! '''속성(attribute)''' !! '''평가자'''
+|-
+| [[]] || [[]] ||  ||  || [[]]
+|}
+
+
+[[Category:krsc:Reference]] [[Category:krsc:WebResource]]

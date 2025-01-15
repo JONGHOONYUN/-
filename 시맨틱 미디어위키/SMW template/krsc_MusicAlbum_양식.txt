@@ -1,0 +1,68 @@
+== 정의 == 
+
+
+==속성==
+{| class="wikitable"
+|+ 캡션 텍스트
+|-
+! 속성(Attribute) !! 값(Value)
+|-
+| 제목 || [[dcterms:title::]]
+|-
+| 이칭 || [[dcterms:alternative::]]
+|-
+| 발매일 || [[krsc:releasedate::]]
+|-
+| 장르 || [[krsc:genre::]]
+|-
+| 러닝타임 || [[krsc:runningTime::]]
+|-
+| 트랙 수 || [[krsc:trackVolume::]]
+|-
+| 앨범타입 || [[krsc:albumType::]]
+|-
+| 재생URL || [[krsc:playURL::]]
+|-
+| 관련이미지URL || [[krsc:imageURL::https://dh.aks.ac.kr/~dbswhdgns08/석사학위논문/샘플시맨틱위키/MPHIPHOP2000.jpg]]
+|}
+
+==관계==
+{| class="wikitable"
+|+ 캡션 텍스트
+|-
+! '''관계(Relation)''' !! '''대상(Target)'''
+|-
+| 제작자 || [[foaf:maker::]]
+|-
+| 수록곡 || [[dcterms:hasPart::]]<br>
+
+[[dcterms:hasPart::]]<br>
+|-
+| 제작사 || [[krsc:productionAgency::]]
+|-
+| 발매사 || [[krsc:publishingCompany::]]
+|-
+| 녹음 스튜디오 || [[krsc:RecordingStudio::]]
+|-
+| 마스터링 스튜디오 || [[krsc:MasteringStudio::]]
+|-
+| 연주되다 || [[krsc:isPlayedin::]]
+|-
+| 언급되다 || [[krsc:mentionedIn::]]
+|-
+| 참조되다 || [[dcterms:isReferencedBy::]]
+|- 
+| 참조 제공하다 || [[dcterms:references::]]
+|}
+
+
+
+
+
+
+
+
+
+
+
+[[Category:krsc:Work]] [[Category:krsc:MusicAlbum]]   

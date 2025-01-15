@@ -1,0 +1,52 @@
+== 정의 ==
+
+
+
+== 속성 ==
+{| class="wikitable"
+|+ 캡션 텍스트
+|-
+! 속성(Attribute) !! 값(Value)
+|-
+| 제목 || [[dcterms:title::]]
+|-
+| 이칭 || [[dcterms:alternative::]]
+|-
+| 발매일 || [[krsc:releasedate::]]
+|-
+| 장르 || [[krsc:genre::]]
+|-
+| 러닝타임 || [[krsc:runningTime::]]
+|-
+| 재생URL || [[krsc:playURL::]]
+|-
+| 관련 이미지 || [[krsc:imageURL::]]
+|}
+
+==관계==
+{| class="wikitable"
+|+ 캡션 텍스트
+|-
+! '''관계(Relation)''' !! '''대상(Target)'''
+|-
+| 제작 || [[foaf:maker::]]
+|-
+| 언급되다 || [[krsc:mentionedIn::]]
+|-
+| 참조되다 || [[dcterms:isReferencedBy::]]
+|- 
+| 참조 제공하다 || [[dcterms:references::]]
+|}
+
+
+
+
+
+
+
+
+
+
+
+
+[[Category:krsc:Work]][[Category:krsc:Video]]
